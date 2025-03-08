@@ -20,7 +20,7 @@ inputField.addEventListener("change", function () {
   console.log("Input field value changed");
 });
 
-myForm.addEventListener("submit", function (event) {
+subButton.addEventListener("click", function (event) {
   // Retrieve the input field value
   let inputValue = document.getElementById("inputField").value;
   if (inputValue === "") {
