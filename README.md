@@ -1,2 +1,2 @@
-# M8-Forms-Assignment
+# Forms
  School assignment on how to use JavaScript with forms.
